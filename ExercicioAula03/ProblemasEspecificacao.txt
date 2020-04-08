@@ -1,0 +1,3 @@
+Problemas na Especificação do Software
+01: Não deveria ser possível adicionar uma receita apenas com açucar
+02: Não deveria ser possível adicionar uma receita apenas com chocolate

@@ -1,0 +1,15 @@
+Falhas Identificadas
+01: A quantidade de açucar pode ser zero desde que outro ingrediente tenha quantidade maior do que zero
+02: Receitas com quantidade de leite acima do estoque máximo (100) não levantam exceção
+03: É possível cadastrar mais de três receitas
+04: Não remove receitas
+05: Não repõe café
+06: Notifica reposição inválida de café para o limite permito de 100 unidades
+07: Não repõe açucar
+08: Notifica reposição inválida de açucar para o limite permito de 100 unidades
+09: Notifica reposição inválida de chocolate para o limite permito de 100 unidades
+10: Não faz a receita quando o valor coincide com o preco
+11: Retorna troco errado
+
+
+
