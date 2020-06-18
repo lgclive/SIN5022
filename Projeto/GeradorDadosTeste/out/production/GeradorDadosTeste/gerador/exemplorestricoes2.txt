@@ -1,0 +1,5 @@
+Xubunto,Yunis
+(Xubunto < 0)
+(Xubunto > 0) ^ (Yunis > 5)
+(Xubunto > 0) ^ (Yunis <= 5) ^ (Xubunto < Yunis)
+(Xubunto > 0) ^ (Yunis <= 5) ^ (Xubunto >= Yunis)
